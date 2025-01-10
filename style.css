@@ -159,7 +159,10 @@ section {
 .section-container {
   display: flex;
 }
-
+.text-container{
+  text-align: justify;
+  /* margin-bottom: 0px; */
+}
 /* PROFILE SECTION */
 
 #profile {
@@ -169,6 +172,13 @@ section {
   height: 80vh;
 }
 
+#Skills{
+  margin-top: 50px;
+  
+}
+#Skills .title{
+  margin-top: -10px;
+}
 .section__pic-container {
   display: flex;
   height: 400px;
@@ -194,6 +204,7 @@ section {
 .section__text__p1 {
   font-size: 1.25rem;
   text-align: center;
+  margin-bottom: -16px;
 }
 
 .section__text__p2 {

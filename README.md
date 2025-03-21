@@ -1,6 +1,6 @@
 # 💼 My Portfolio  
 This is a *modern, responsive, and fully functional portfolio website* built using *HTML, CSS, and JavaScript*. 
-It showcases my *skills, projects, experience, and contact information* in an interactive and visually appealing manner.
+It showcases my *skills, projects, experience, and contact information* in an interactive and visually appealing manner
 
 > *Why This Project?* 
 🌟 *Fully Responsive:* Works across all screen sizes.  
